@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #384046;
@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 span {
-  border-bottom: 4px solid #3498db;
+  border-bottom: 4px solid #5bd5fb;
 }
 
 #hero h2 {
