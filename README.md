@@ -1,3 +1,3 @@
 # Poolweb
 
-Repository for the DenAdaPool landing page.
+Repository for the [DEN] Cardano Stakepool landing page.
